@@ -1,0 +1,6 @@
+building:
+  filename: test_office.building.yaml
+name: test_office
+traffic_maps:
+  {}
+version: 1

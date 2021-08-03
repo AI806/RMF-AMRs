@@ -1,0 +1,450 @@
+levels:
+  L1:
+    elevation: 0
+    flattened_x_offset: 0
+    flattened_y_offset: 0
+    floors:
+      - parameters: {texture_name: [1, blue_linoleum], texture_rotation: [3, 0], texture_scale: [3, 1]}
+        vertices: [6, 5, 4, 3, 2, 1]
+    lanes:
+      - [0, 12, {bidirectional: [4, true], capacity: [2, 1], demo_mock_floor_name: [1, ""], demo_mock_lift_name: [1, ""], graph_idx: [2, 0], orientation: [1, ""]}]
+      - [12, 15, {bidirectional: [4, true], capacity: [2, 3], demo_mock_floor_name: [1, ""], demo_mock_lift_name: [1, ""], graph_idx: [2, 0], orientation: [1, ""]}]
+      - [15, 18, {bidirectional: [4, true], capacity: [2, 3], demo_mock_floor_name: [1, ""], demo_mock_lift_name: [1, ""], graph_idx: [2, 0], orientation: [1, ""]}]
+      - [16, 102, {bidirectional: [4, true], capacity: [2, 2], demo_mock_floor_name: [1, ""], demo_mock_lift_name: [1, ""], graph_idx: [2, 0], orientation: [1, ""]}]
+      - [102, 17, {bidirectional: [4, true], capacity: [2, 2], demo_mock_floor_name: [1, ""], demo_mock_lift_name: [1, ""], graph_idx: [2, 0], orientation: [1, ""]}]
+      - [17, 101, {bidirectional: [4, true], capacity: [2, 1], demo_mock_floor_name: [1, ""], demo_mock_lift_name: [1, ""], graph_idx: [2, 0], orientation: [1, ""]}]
+      - [99, 17, {bidirectional: [4, true], capacity: [2, 2], demo_mock_floor_name: [1, ""], demo_mock_lift_name: [1, ""], graph_idx: [2, 0], orientation: [1, ""]}]
+      - [100, 99, {bidirectional: [4, true], capacity: [2, 1], demo_mock_floor_name: [1, ""], demo_mock_lift_name: [1, ""], graph_idx: [2, 0], orientation: [1, ""]}]
+      - [18, 16, {bidirectional: [4, true], capacity: [2, 2], demo_mock_floor_name: [1, ""], demo_mock_lift_name: [1, ""], graph_idx: [2, 0], orientation: [1, ""]}]
+      - [13, 98, {bidirectional: [4, true], capacity: [2, 1], demo_mock_floor_name: [1, ""], demo_mock_lift_name: [1, ""], graph_idx: [2, 0], orientation: [1, ""]}]
+      - [13, 103, {bidirectional: [4, true], capacity: [2, 2], demo_mock_floor_name: [1, ""], demo_mock_lift_name: [1, ""], graph_idx: [2, 0], orientation: [1, ""]}]
+      - [103, 104, {bidirectional: [4, true], capacity: [2, 1], demo_mock_floor_name: [1, ""], demo_mock_lift_name: [1, ""], graph_idx: [2, 0], orientation: [1, ""]}]
+      - [99, 105, {bidirectional: [4, true], capacity: [2, 2], demo_mock_floor_name: [1, ""], demo_mock_lift_name: [1, ""], graph_idx: [2, 0], orientation: [1, ""]}]
+      - [105, 106, {bidirectional: [4, true], capacity: [2, 1], demo_mock_floor_name: [1, ""], demo_mock_lift_name: [1, ""], graph_idx: [2, 0], orientation: [1, ""]}]
+      - [103, 96, {bidirectional: [4, true], capacity: [2, 2], demo_mock_floor_name: [1, ""], demo_mock_lift_name: [1, ""], graph_idx: [2, 0], orientation: [1, ""]}]
+      - [96, 22, {bidirectional: [4, true], capacity: [2, 2], demo_mock_floor_name: [1, ""], demo_mock_lift_name: [1, ""], graph_idx: [2, 0], orientation: [1, ""]}]
+      - [22, 26, {bidirectional: [4, true], capacity: [2, 3], demo_mock_floor_name: [1, ""], demo_mock_lift_name: [1, ""], graph_idx: [2, 0], orientation: [1, ""]}]
+      - [26, 24, {bidirectional: [4, true], capacity: [2, 2], demo_mock_floor_name: [1, ""], demo_mock_lift_name: [1, ""], graph_idx: [2, 0], orientation: [1, ""]}]
+      - [24, 14, {bidirectional: [4, true], capacity: [2, 3], demo_mock_floor_name: [1, ""], demo_mock_lift_name: [1, ""], graph_idx: [2, 0], orientation: [1, ""]}]
+      - [14, 19, {bidirectional: [4, true], capacity: [2, 2], demo_mock_floor_name: [1, ""], demo_mock_lift_name: [1, ""], graph_idx: [2, 0], orientation: [1, ""]}]
+      - [19, 20, {bidirectional: [4, true], capacity: [2, 2], demo_mock_floor_name: [1, ""], demo_mock_lift_name: [1, ""], graph_idx: [2, 0], orientation: [1, ""]}]
+      - [20, 12, {bidirectional: [4, true], capacity: [2, 2], demo_mock_floor_name: [1, ""], demo_mock_lift_name: [1, ""], graph_idx: [2, 0], orientation: [1, ""]}]
+      - [107, 27, {bidirectional: [4, true], capacity: [2, 3], demo_mock_floor_name: [1, ""], demo_mock_lift_name: [1, ""], graph_idx: [2, 0], orientation: [1, ""]}]
+      - [102, 108, {bidirectional: [4, true], capacity: [2, 1], demo_mock_floor_name: [1, ""], demo_mock_lift_name: [1, ""], graph_idx: [2, 0], orientation: [1, ""]}]
+      - [14, 95, {bidirectional: [4, true], capacity: [2, 1], demo_mock_floor_name: [1, ""], demo_mock_lift_name: [1, ""], graph_idx: [2, 0], orientation: [1, ""]}]
+      - [19, 94, {bidirectional: [4, true], capacity: [2, 1], demo_mock_floor_name: [1, ""], demo_mock_lift_name: [1, ""], graph_idx: [2, 0], orientation: [1, ""]}]
+      - [24, 25, {bidirectional: [4, true], capacity: [2, 1], demo_mock_floor_name: [1, ""], demo_mock_lift_name: [1, ""], graph_idx: [2, 0], orientation: [1, ""]}]
+      - [96, 97, {bidirectional: [4, true], capacity: [2, 1], demo_mock_floor_name: [1, ""], demo_mock_lift_name: [1, ""], graph_idx: [2, 0], orientation: [1, ""]}]
+      - [15, 109, {bidirectional: [4, true], capacity: [2, 1], demo_mock_floor_name: [1, ""], demo_mock_lift_name: [1, ""], graph_idx: [2, 0], orientation: [1, ""]}]
+      - [16, 13, {bidirectional: [4, true], capacity: [2, 2], demo_mock_floor_name: [1, ""], demo_mock_lift_name: [1, ""], graph_idx: [2, 0], orientation: [1, ""]}]
+      - [13, 105, {bidirectional: [4, true], capacity: [2, 2], demo_mock_floor_name: [1, ""], demo_mock_lift_name: [1, ""], graph_idx: [2, 0], orientation: [1, ""]}]
+      - [107, 129, {bidirectional: [4, true], capacity: [2, 3], demo_mock_floor_name: [1, ""], demo_mock_lift_name: [1, ""], graph_idx: [2, 0], orientation: [1, ""]}]
+      - [129, 130, {bidirectional: [4, true], capacity: [2, 2], demo_mock_floor_name: [1, ""], demo_mock_lift_name: [1, ""], graph_idx: [2, 0], orientation: [1, ""]}]
+      - [130, 131, {bidirectional: [4, true], capacity: [2, 1], demo_mock_floor_name: [1, ""], demo_mock_lift_name: [1, ""], graph_idx: [2, 0], orientation: [1, ""]}]
+      - [132, 130, {bidirectional: [4, true], capacity: [2, 1], demo_mock_floor_name: [1, ""], demo_mock_lift_name: [1, ""], graph_idx: [2, 0], orientation: [1, ""]}]
+      - [129, 18, {bidirectional: [4, true], capacity: [2, 3], demo_mock_floor_name: [1, ""], demo_mock_lift_name: [1, ""], graph_idx: [2, 0], orientation: [1, ""]}]
+      - [129, 135, {bidirectional: [4, false], capacity: [2, 1], demo_mock_floor_name: [1, ""], demo_mock_lift_name: [1, ""], graph_idx: [2, 0], orientation: [1, ""]}]
+      - [15, 149, {bidirectional: [4, true], capacity: [2, 3], demo_mock_floor_name: [1, ""], demo_mock_lift_name: [1, ""], graph_idx: [2, 0], orientation: [1, ""]}]
+      - [149, 21, {bidirectional: [4, true], capacity: [2, 3], demo_mock_floor_name: [1, ""], demo_mock_lift_name: [1, ""], graph_idx: [2, 0], orientation: [1, ""]}]
+      - [21, 150, {bidirectional: [4, true], capacity: [2, 3], demo_mock_floor_name: [1, ""], demo_mock_lift_name: [1, ""], graph_idx: [2, 0], orientation: [1, ""]}]
+      - [150, 20, {bidirectional: [4, true], capacity: [2, 3], demo_mock_floor_name: [1, ""], demo_mock_lift_name: [1, ""], graph_idx: [2, 0], orientation: [1, ""]}]
+      - [149, 151, {bidirectional: [4, false], capacity: [2, 1], demo_mock_floor_name: [1, ""], demo_mock_lift_name: [1, ""], graph_idx: [2, 0], orientation: [1, ""]}]
+      - [151, 150, {bidirectional: [4, false], capacity: [2, 1], demo_mock_floor_name: [1, ""], demo_mock_lift_name: [1, ""], graph_idx: [2, 0], orientation: [1, ""]}]
+      - [150, 152, {bidirectional: [4, false], capacity: [2, 2], demo_mock_floor_name: [1, ""], demo_mock_lift_name: [1, ""], graph_idx: [2, 0], orientation: [1, ""]}]
+      - [152, 153, {bidirectional: [4, false], capacity: [2, 2], demo_mock_floor_name: [1, ""], demo_mock_lift_name: [1, ""], graph_idx: [2, 0], orientation: [1, ""]}]
+      - [153, 107, {bidirectional: [4, true], capacity: [2, 3], demo_mock_floor_name: [1, ""], demo_mock_lift_name: [1, ""], graph_idx: [2, 0], orientation: [1, ""]}]
+      - [153, 154, {bidirectional: [4, false], capacity: [2, 2], demo_mock_floor_name: [1, ""], demo_mock_lift_name: [1, ""], graph_idx: [2, 0], orientation: [1, ""]}]
+      - [154, 155, {bidirectional: [4, false], capacity: [2, 2], demo_mock_floor_name: [1, ""], demo_mock_lift_name: [1, ""], graph_idx: [2, 0], orientation: [1, ""]}]
+      - [155, 27, {bidirectional: [4, true], capacity: [2, 3], demo_mock_floor_name: [1, ""], demo_mock_lift_name: [1, ""], graph_idx: [2, 0], orientation: [1, ""]}]
+      - [27, 156, {bidirectional: [4, true], capacity: [2, 3], demo_mock_floor_name: [1, ""], demo_mock_lift_name: [1, ""], graph_idx: [2, 0], orientation: [1, ""]}]
+      - [156, 157, {bidirectional: [4, false], capacity: [2, 2], demo_mock_floor_name: [1, ""], demo_mock_lift_name: [1, ""], graph_idx: [2, 0], orientation: [1, ""]}]
+      - [157, 22, {bidirectional: [4, false], capacity: [2, 2], demo_mock_floor_name: [1, ""], demo_mock_lift_name: [1, ""], graph_idx: [2, 0], orientation: [1, ""]}]
+      - [156, 13, {bidirectional: [4, true], capacity: [2, 3], demo_mock_floor_name: [1, ""], demo_mock_lift_name: [1, ""], graph_idx: [2, 0], orientation: [1, ""]}]
+      - [155, 26, {bidirectional: [4, true], capacity: [2, 3], demo_mock_floor_name: [1, ""], demo_mock_lift_name: [1, ""], graph_idx: [2, 0], orientation: [1, ""]}]
+      - [22, 23, {bidirectional: [4, false], capacity: [2, 1], demo_mock_floor_name: [1, ""], demo_mock_lift_name: [1, ""], graph_idx: [2, 0], orientation: [1, ""]}]
+      - [23, 26, {bidirectional: [4, false], capacity: [2, 1], demo_mock_floor_name: [1, ""], demo_mock_lift_name: [1, ""], graph_idx: [2, 0], orientation: [1, ""]}]
+      - [153, 14, {bidirectional: [4, true], capacity: [2, 3], demo_mock_floor_name: [1, ""], demo_mock_lift_name: [1, ""], graph_idx: [2, 0], orientation: [1, ""]}]
+      - [21, 158, {bidirectional: [4, true], capacity: [2, 3], demo_mock_floor_name: [1, ""], demo_mock_lift_name: [1, ""], graph_idx: [2, 0], orientation: [1, ""]}]
+      - [158, 107, {bidirectional: [4, true], capacity: [2, 3], demo_mock_floor_name: [1, ""], demo_mock_lift_name: [1, ""], graph_idx: [2, 0], orientation: [1, ""]}]
+      - [135, 158, {bidirectional: [4, false], capacity: [2, 1], demo_mock_floor_name: [1, ""], demo_mock_lift_name: [1, ""], graph_idx: [2, 0], orientation: [1, ""]}]
+      - [159, 13, {bidirectional: [4, true], capacity: [2, 4], demo_mock_floor_name: [1, ""], demo_mock_lift_name: [1, ""], graph_idx: [2, 0], orientation: [1, ""]}]
+      - [12, 160, {bidirectional: [4, true], capacity: [2, 1], demo_mock_floor_name: [1, ""], demo_mock_lift_name: [1, ""], graph_idx: [2, 0], orientation: [1, ""]}]
+    layers:
+      {}
+    measurements:
+      - [110, 111, {distance: [3, 46.66]}]
+      - [112, 113, {distance: [3, 43.05]}]
+      - [114, 115, {distance: [3, 38.78]}]
+      - [116, 117, {distance: [3, 13.65]}]
+      - [118, 119, {distance: [3, 21.06]}]
+      - [119, 120, {distance: [3, 11.09]}]
+    models:
+      - {model_name: OpenRobotics/ConfTable, name: OpenRobotics/ConfTable, static: true, x: 241.655, y: 102.237, yaw: 1.5708, z: 0}
+      - {model_name: OpenRobotics/ConfTable, name: OpenRobotics/ConfTable, static: true, x: 448.409, y: 99.42400000000001, yaw: 1.5708, z: 0}
+      - {model_name: OpenRobotics/ConfTable, name: OpenRobotics/ConfTable, static: true, x: 113.664, y: 65.669, yaw: -3.1416, z: 0}
+      - {model_name: OpenRobotics/ConfTable, name: OpenRobotics/ConfTable, static: true, x: 950.528, y: 683.119, yaw: 1.5708, z: 0}
+      - {model_name: OpenRobotics/ConfTable, name: OpenRobotics/ConfTable, static: true, x: 950.528, y: 432.764, yaw: 1.5708, z: 0}
+      - {model_name: OpenRobotics/ConfTable, name: OpenRobotics/ConfTable, static: true, x: 946.308, y: 586.071, yaw: 1.5708, z: 0}
+      - {model_name: OpenRobotics/ConfTable, name: OpenRobotics/ConfTable, static: true, x: 947.715, y: 233.041, yaw: 1.5708, z: 0}
+      - {model_name: OpenRobotics/ConfTable, name: OpenRobotics/ConfTable, static: true, x: 950.528, y: 130.367, yaw: 1.5708, z: 0}
+      - {model_name: OpenRobotics/ConfTable, name: OpenRobotics/ConfTable, static: true, x: 47.559, y: 217.57, yaw: -1.6615, z: 0}
+      - {model_name: OpenRobotics/ConfTable, name: OpenRobotics/ConfTable, static: true, x: 61.623, y: 386.349, yaw: 1.5708, z: 0}
+      - {model_name: OpenRobotics/BigCubicle, name: OpenRobotics/BigCubicle, static: true, x: 441.758, y: 189.572, yaw: 1.5708, z: 0}
+      - {model_name: OpenRobotics/BigCubicle, name: OpenRobotics/BigCubicle, static: true, x: 440.354, y: 224.682, yaw: 1.5708, z: 0}
+      - {model_name: OpenRobotics/BigCubicle, name: OpenRobotics/BigCubicle, static: true, x: 947.338, y: 355.29, yaw: 1.5708, z: 0}
+      - {model_name: OpenRobotics/BigCubicle, name: OpenRobotics/BigCubicle, static: true, x: 666.46, y: 60.368, yaw: 1.5708, z: 0}
+      - {model_name: OpenRobotics/BigCubicle, name: OpenRobotics/BigCubicle, static: true, x: 594.837, y: 61.773, yaw: 1.5708, z: 0}
+      - {model_name: OpenRobotics/BigCubicle, name: OpenRobotics/BigCubicle, static: true, x: 530.235, y: 131.992, yaw: 1.5708, z: 0}
+      - {model_name: OpenRobotics/BigCubicle, name: OpenRobotics/BigCubicle, static: true, x: 533.043, y: 176.933, yaw: 1.5708, z: 0}
+      - {model_name: OpenRobotics/Chair, name: OpenRobotics/Chair, static: true, x: 471.608, y: 126.096, yaw: 1.5708, z: 0}
+      - {model_name: OpenRobotics/Chair, name: OpenRobotics/Chair, static: true, x: 462.195, y: 190.311, yaw: 1.5708, z: 0}
+      - {model_name: OpenRobotics/Chair, name: OpenRobotics/Chair, static: true, x: 462.867, y: 222.922, yaw: 1.5708, z: 0}
+      - {model_name: OpenRobotics/Chair, name: OpenRobotics/Chair, static: true, x: 513.9690000000001, y: 177.199, yaw: 1.5708, z: 0}
+      - {model_name: OpenRobotics/Chair, name: OpenRobotics/Chair, static: true, x: 509.935, y: 133.829, yaw: 1.5708, z: 0}
+      - {model_name: OpenRobotics/Chair, name: OpenRobotics/Chair, static: true, x: 472.262, y: 84.136, yaw: 1.5708, z: 0}
+      - {model_name: OpenRobotics/Chair, name: OpenRobotics/Chair, static: true, x: 615.028, y: 61.931, yaw: 1.5708, z: 0}
+      - {model_name: OpenRobotics/Chair, name: OpenRobotics/Chair, static: true, x: 650.003, y: 61.154, yaw: 1.5708, z: 0}
+      - {model_name: OpenRobotics/Chair, name: OpenRobotics/Chair, static: true, x: 962.974, y: 353.289, yaw: 1.5708, z: 0}
+      - {model_name: OpenRobotics/MainTable, name: OpenRobotics/MainTable, static: true, x: 128.477, y: 691.563, yaw: 1.5708, z: 0}
+      - {model_name: OpenRobotics/MainTable, name: OpenRobotics/MainTable, static: true, x: 177.178, y: 761.324, yaw: 1.5708, z: 0}
+      - {model_name: OpenRobotics/MainTable, name: OpenRobotics/MainTable, static: true, x: 348.289, y: 842.9299999999999, yaw: 1.5708, z: 0}
+      - {model_name: OpenRobotics/MainTable, name: OpenRobotics/MainTable, static: true, x: 416.734, y: 841.614, yaw: 1.5708, z: 0}
+      - {model_name: OpenRobotics/MainTable, name: OpenRobotics/MainTable, static: true, x: 573.367, y: 846.879, yaw: 1.5708, z: 0}
+      - {model_name: OpenRobotics/MopCart2, name: OpenRobotics/MopCart2, static: true, x: 95.10899999999999, y: 460.891, yaw: 1.5708, z: 0}
+      - {model_name: OpenRobotics/MopCart2, name: OpenRobotics/MopCart2, static: true, x: 203.283, y: 308.058, yaw: 1.5708, z: 0}
+      - {model_name: OpenRobotics/MopCart2, name: OpenRobotics/MopCart2, static: true, x: 582.388, y: 377.528, yaw: 1.5708, z: 0}
+      - {model_name: OpenRobotics/MopCart2, name: OpenRobotics/MopCart2, static: true, x: 841.41, y: 867.784, yaw: 1.5708, z: 0}
+      - {model_name: OpenRobotics/OfficeChairBlue, name: OpenRobotics/OfficeChairBlue, static: true, x: 153.483, y: 760.579, yaw: 1.5708, z: 0}
+      - {model_name: OpenRobotics/OfficeChairBlue, name: OpenRobotics/OfficeChairBlue, static: true, x: 42.426, y: 365.131, yaw: 1.5708, z: 0}
+      - {model_name: OpenRobotics/OfficeChairBlue, name: OpenRobotics/OfficeChairBlue, static: true, x: 45.203, y: 400.305, yaw: 1.5708, z: 0}
+      - {model_name: OpenRobotics/OfficeChairBlue, name: OpenRobotics/OfficeChairBlue, static: true, x: 27.616, y: 234.618, yaw: 1.5708, z: 0}
+      - {model_name: OpenRobotics/OfficeChairBlue, name: OpenRobotics/OfficeChairBlue, static: true, x: 217.83, y: 99.846, yaw: 1.5708, z: 0}
+      - {model_name: OpenRobotics/OfficeChairBlue, name: OpenRobotics/OfficeChairBlue, static: true, x: 63.655, y: 64.514, yaw: 1.5708, z: 0}
+      - {model_name: OpenRobotics/OfficeChairBlue, name: OpenRobotics/OfficeChairBlue, static: true, x: 170.721, y: 66.655, yaw: 1.5708, z: 0}
+      - {model_name: OpenRobotics/OfficeChairBlue, name: OpenRobotics/OfficeChairBlue, static: true, x: 951.231, y: 186.569, yaw: 1.5708, z: 0}
+      - {model_name: OpenRobotics/OfficeChairBlue, name: OpenRobotics/OfficeChairBlue, static: true, x: 952.302, y: 274.363, yaw: 1.5708, z: 0}
+      - {model_name: OpenRobotics/OfficeChairBlue, name: OpenRobotics/OfficeChairBlue, static: true, x: 926.606, y: 141.601, yaw: 1.5708, z: 0}
+      - {model_name: OpenRobotics/OfficeChairBlue, name: OpenRobotics/OfficeChairBlue, static: true, x: 924.465, y: 226.184, yaw: 1.5708, z: 0}
+      - {model_name: OpenRobotics/OfficeChairBlue, name: OpenRobotics/OfficeChairBlue, static: true, x: 930.889, y: 428.538, yaw: 1.5708, z: 0}
+      - {model_name: OpenRobotics/OfficeChairBlue, name: OpenRobotics/OfficeChairBlue, static: true, x: 931.96, y: 458.517, yaw: 1.5708, z: 0}
+      - {model_name: OpenRobotics/OfficeChairBlue, name: OpenRobotics/OfficeChairBlue, static: true, x: 920.182, y: 573.077, yaw: 1.5708, z: 0}
+      - {model_name: OpenRobotics/OfficeChairBlue, name: OpenRobotics/OfficeChairBlue, static: true, x: 919.112, y: 598.773, yaw: 1.5708, z: 0}
+      - {model_name: OpenRobotics/OfficeChairBlue, name: OpenRobotics/OfficeChairBlue, static: true, x: 927.677, y: 676.931, yaw: 1.5708, z: 0}
+      - {model_name: OpenRobotics/OfficeChairBlue, name: OpenRobotics/OfficeChairBlue, static: true, x: 927.677, y: 704.768, yaw: 1.5708, z: 0}
+      - {model_name: OpenRobotics/PotatoChipChair, name: OpenRobotics/PotatoChipChair, static: true, x: 214.791, y: 727.784, yaw: 0.588, z: 0}
+      - {model_name: OpenRobotics/PotatoChipChair, name: OpenRobotics/PotatoChipChair, static: true, x: 353.817, y: 506.459, yaw: 0.8588, z: 0}
+      - {model_name: OpenRobotics/PotatoChipChair, name: OpenRobotics/PotatoChipChair, static: true, x: 577.519, y: 491.576, yaw: 1.5708, z: 0}
+      - {model_name: OpenRobotics/PotatoChipChair, name: OpenRobotics/PotatoChipChair, static: true, x: 717.389, y: 629.716, yaw: -3.1033, z: 0}
+      - {model_name: OpenRobotics/PotatoChipChair, name: OpenRobotics/PotatoChipChair, static: true, x: 815.995, y: 690.736, yaw: 1.5708, z: 0}
+      - {model_name: OpenRobotics/PotatoChipChair, name: OpenRobotics/PotatoChipChair, static: true, x: 471.788, y: 713.981, yaw: 1.5708, z: 0}
+      - {model_name: OpenRobotics/PotatoChipChair, name: OpenRobotics/PotatoChipChair, static: true, x: 565.937, y: 709.622, yaw: 1.5708, z: 0}
+      - {model_name: OpenRobotics/PotatoChipChair, name: OpenRobotics/PotatoChipChair, static: true, x: 584.244, y: 347.846, yaw: 1.5708, z: 0}
+      - {model_name: OpenRobotics/PotatoChipChair, name: OpenRobotics/PotatoChipChair, static: true, x: 701.9299999999999, y: 345.231, yaw: 1.5708, z: 0}
+      - {model_name: OpenRobotics/PotatoChipChair, name: OpenRobotics/PotatoChipChair, static: true, x: 785.326, y: 148.556, yaw: 1.5708, z: 0}
+      - {model_name: OpenRobotics/PotatoChipChair, name: OpenRobotics/PotatoChipChair, static: true, x: 843.317, y: 201.784, yaw: 0.1027, z: 0}
+      - {model_name: OpenRobotics/PotatoChipChair, name: OpenRobotics/PotatoChipChair, static: true, x: 180.245, y: 665.377, yaw: 0.2838, z: 0}
+      - {model_name: OpenRobotics/DeskChair, name: OpenRobotics/DeskChair, static: true, x: 257.62, y: 305.764, yaw: 1.5708, z: 0}
+      - {model_name: OpenRobotics/DeskChair, name: OpenRobotics/DeskChair, static: true, x: 212.419, y: 274.945, yaw: 1.5708, z: 0}
+      - {model_name: OpenRobotics/DeskChair, name: OpenRobotics/DeskChair, static: true, x: 248.58, y: 280.287, yaw: 1.5708, z: 0}
+      - {model_name: OpenRobotics/DeskChair, name: OpenRobotics/DeskChair, static: true, x: 175.436, y: 331.652, yaw: 1.5708, z: 0}
+      - {model_name: OpenRobotics/DeskChair, name: OpenRobotics/DeskChair, static: true, x: 172.224, y: 189.247, yaw: 1.5708, z: 0}
+      - {model_name: OpenRobotics/DeskChair, name: OpenRobotics/DeskChair, static: true, x: 247.637, y: 191.156, yaw: 1.5708, z: 0}
+      - {model_name: OpenRobotics/DeskChair, name: OpenRobotics/DeskChair, static: true, x: 395.6, y: 322.891, yaw: 1.5708, z: 0}
+      - {model_name: OpenRobotics/DeskChair, name: OpenRobotics/DeskChair, static: true, x: 319.232, y: 627.408, yaw: 1.5708, z: 0}
+      - {model_name: OpenRobotics/DeskChair, name: OpenRobotics/DeskChair, static: true, x: 370.78, y: 556.768, yaw: 1.5708, z: 0}
+      - {model_name: OpenRobotics/DeskChair, name: OpenRobotics/DeskChair, static: true, x: 539.744, y: 556.768, yaw: 1.5708, z: 0}
+      - {model_name: OpenRobotics/DeskChair, name: OpenRobotics/DeskChair, static: true, x: 596.0650000000001, y: 570.1319999999999, yaw: 1.5708, z: 0}
+      - {model_name: OpenRobotics/DeskChair, name: OpenRobotics/DeskChair, static: true, x: 428.056, y: 670.365, yaw: 1.5708, z: 0}
+      - {model_name: OpenRobotics/DeskChair, name: OpenRobotics/DeskChair, static: true, x: 482.468, y: 575.86, yaw: 1.5708, z: 0}
+      - {model_name: OpenRobotics/DeskChair, name: OpenRobotics/DeskChair, static: true, x: 730.664, y: 552.949, yaw: 1.5708, z: 0}
+      - {model_name: OpenRobotics/DeskChair, name: OpenRobotics/DeskChair, static: true, x: 821.35, y: 487.082, yaw: 1.5708, z: 0}
+      - {model_name: OpenRobotics/DeskChair, name: OpenRobotics/DeskChair, static: true, x: 818.487, y: 643.636, yaw: 1.5708, z: 0}
+      - {model_name: OpenRobotics/WhiteChipChair, name: OpenRobotics/WhiteChipChair, static: true, x: 655.25, y: 857.466, yaw: 1.5708, z: 0}
+      - {model_name: OpenRobotics/WhiteChipChair, name: OpenRobotics/WhiteChipChair, static: true, x: 781.2569999999999, y: 855.557, yaw: 1.5708, z: 0}
+      - {model_name: OpenRobotics/Cafe table, name: OpenRobotics/Cafe table, static: true, x: 720.732, y: 774.5890000000001, yaw: 1.5708, z: 0}
+    vertices:
+      - [111.674, 121.698, 0, meeting-room-3]
+      - [972.203, 44.709, 0, ""]
+      - [973.183, 890.8200000000001, 0, ""]
+      - [210.409, 891.8, 0, ""]
+      - [62.364, 667.282, 0, ""]
+      - [17.264, 248.639, 0, ""]
+      - [44.171, 38.784, 0, ""]
+      - [192.761, 44.709, 0, ""]
+      - [183.937, 167.263, 0, ""]
+      - [150.603, 167.263, 0, ""]
+      - [30.99, 162.361, 0, ""]
+      - [64.325, 163.341, 0, ""]
+      - [109.199, 242.433, 0, ""]
+      - [878.1799999999999, 311.023, 0, ""]
+      - [298.935, 732.163, 0, ""]
+      - [324.945, 255.844, 0, ""]
+      - [592.126, 301.845, 0, ""]
+      - [599.824, 121.397, 0, ""]
+      - [497.646, 301.934, 0, ""]
+      - [199.432, 560.294, 0, ""]
+      - [175.31, 432.648, 0, ""]
+      - [339.138, 420.587, 0, ""]
+      - [764.3920000000001, 746.4690000000001, 0, ""]
+      - [735.999, 832.745, 0, lab-3]
+      - [503.972, 748.245, 0, ""]
+      - [498.655, 831.994, 0, office-4]
+      - [649.7089999999999, 741.2089999999999, 0, ""]
+      - [671.821, 539.187, 0, ""]
+      - [185.898, 164.322, 0, ""]
+      - [188.84, 167.263, 0, ""]
+      - [280.019, 166.283, 0, ""]
+      - [407.11, 159.943, 0, ""]
+      - [555.921, 155.525, 0, ""]
+      - [489.831, 44.709, 0, ""]
+      - [488.851, 160.4, 0, ""]
+      - [404.731, 244.915, 0, ""]
+      - [546.696, 246.678, 0, ""]
+      - [488.603, 158.1, 0, ""]
+      - [485.91, 246.678, 0, ""]
+      - [635.915, 190.793, 0, ""]
+      - [638.857, 260.404, 0, ""]
+      - [746.704, 263.345, 0, ""]
+      - [701.604, 156.478, 0, ""]
+      - [834.943, 238.834, 0, ""]
+      - [832.001, 159.42, 0, ""]
+      - [703.5650000000001, 154.517, 0, ""]
+      - [548.657, 247.658, 0, ""]
+      - [549.638, 229.03, 0, ""]
+      - [613.981, 79.032, 0, ""]
+      - [670.151, 78.23, 0, ""]
+      - [642.066, 46.132, 0, ""]
+      - [641.264, 75.02, 0, ""]
+      - [742.371, 77.428, 0, ""]
+      - [854.712, 76.625, 0, ""]
+      - [800.146, 45.33, 0, ""]
+      - [800.949, 74.218, 0, ""]
+      - [911.456, 170.653, 0, ""]
+      - [971.066, 171.313, 0, ""]
+      - [910.646, 389.426, 0, ""]
+      - [973.091, 388.069, 0, ""]
+      - [904.096, 627.2380000000001, 0, ""]
+      - [971.991, 628.0309999999999, 0, ""]
+      - [815.686, 788.739, 0, ""]
+      - [815.686, 885.604, 0, ""]
+      - [614.25, 803.048, 0, ""]
+      - [612.049, 891.107, 0, ""]
+      - [381.994, 807.451, 0, ""]
+      - [379.793, 893.309, 0, ""]
+      - [117.817, 748.011, 0, ""]
+      - [181.66, 709.485, 0, ""]
+      - [837.7, 442.006, 0, ""]
+      - [828.894, 670.9589999999999, 0, ""]
+      - [724.324, 672.0599999999999, 0, ""]
+      - [726.526, 575.1950000000001, 0, ""]
+      - [510.781, 564.188, 0, ""]
+      - [604.3440000000001, 587.303, 0, ""]
+      - [593.336, 684.168, 0, ""]
+      - [439.233, 694.075, 0, ""]
+      - [531.6950000000001, 458.517, 0, ""]
+      - [635.164, 487.136, 0, ""]
+      - [769.455, 356.148, 0, ""]
+      - [539.4, 357.249, 0, ""]
+      - [381.994, 338.536, 0, ""]
+      - [451.341, 339.637, 0, ""]
+      - [441.586, 429.83, 0, ""]
+      - [385.296, 393.573, 0, ""]
+      - [380.894, 336.335, 0, ""]
+      - [246.603, 478.33, 0, ""]
+      - [243.301, 531.1660000000001, 0, ""]
+      - [299.439, 630.232, 0, ""]
+      - [373.188, 536.669, 0, ""]
+      - [308.245, 491.539, 0, ""]
+      - [38.564, 449.711, 0, ""]
+      - [110.112, 442.006, 0, ""]
+      - [103.507, 598.311, 0, lab-1]
+      - [244.402, 822.862, 0, lab-2]
+      - [884.899, 734.174, 0, ""]
+      - [941.17, 856.984, 0, lab-4]
+      - [941.17, 305.514, 0, office-5]
+      - [713.247, 112.018, 0, ""]
+      - [710.015, 66.654, 0, office-3]
+      - [532.796, 71.056, 0, office 2]
+      - [599.587, 205.617, 0, ""]
+      - [873.843, 499.989, 0, ""]
+      - [937.232, 517.679, 0, meeting-room-5]
+      - [878.139, 117.607, 0, ""]
+      - [924.519, 71.372, 0, meeting-room-2]
+      - [464.774, 509.035, 0, ""]
+      - [522.203, 210.067, 0, office-1]
+      - [343.826, 98.69199999999999, 0, meeting-room-1]
+      - [41.974, 29.597, 0, ""]
+      - [975.24, 32.611, 0, ""]
+      - [980.263, 33.616, 0, ""]
+      - [981.268, 894.551, 0, ""]
+      - [981.268, 899.574, 0, ""]
+      - [205.722, 899.574, 0, ""]
+      - [203.713, 898.5700000000001, 0, ""]
+      - [52.02, 671.532, 0, ""]
+      - [52.02, 669.523, 0, ""]
+      - [7.818, 250.608, 0, ""]
+      - [35.946, 30.602, 0, ""]
+      - [318.931, 605.663, 0, ""]
+      - [354.074, 560.479, 0, ""]
+      - [489.036, 601.2329999999999, 0, ""]
+      - [459.504, 656.458, 0, ""]
+      - [537.1369999999999, 373.36, 0, ""]
+      - [533.5700000000001, 441.133, 0, ""]
+      - [746.221, 671.7190000000001, 0, ""]
+      - [801.33, 670.948, 0, ""]
+      - [479.963, 392.988, 0, ""]
+      - [594.21, 417.353, 0, lab-5-1]
+      - [615.798, 450.159, 0, lab-5-3]
+      - [691.634, 383.375, 0, lab-5-2]
+      - [448.878, 362.287, 0, ""]
+      - [444.273, 408.723, 0, ""]
+      - [423.786, 377.785, 0, lab-6]
+      - [275.554, 321.043, 0, ""]
+      - [271.393, 291.912, 0, ""]
+      - [179.838, 286.561, 0, ""]
+      - [198.863, 371.576, 0, ""]
+      - [219.67, 369.198, 0, ""]
+      - [270.798, 362.658, 0, ""]
+      - [282.094, 360.875, 0, ""]
+      - [395.968, 401.796, 0, ""]
+      - [433.096, 424.528, 0, ""]
+      - [594.148, 674.015, 0, ""]
+      - [600.103, 614.1660000000001, 0, ""]
+      - [755.534, 540.146, 0, ""]
+      - [808.7619999999999, 477.033, 0, ""]
+      - [328.484, 328.902, 0, ""]
+      - [260.644, 424.795, 0, ""]
+      - [241.349, 343.035, 0, lab-10]
+      - [284.5, 536.9690000000001, 0, lab-8]
+      - [396.335, 618.79, 0, ""]
+      - [529.8680000000001, 642.482, 0, lab-7]
+      - [660.299, 637.288, 0, ""]
+      - [762.437, 436.413, 0, ""]
+      - [797.282, 558.776, 0, lab-9]
+      - [393.854, 461.13, 0, ""]
+      - [602.197, 121.849, 0, ""]
+      - [50.941, 312.755, 0, meeting-room-4]
+      - [74.13800000000001, 231.193, 0, ""]
+      - [91.06, 330.188, 0, ""]
+      - [132.797, 540.474, 0, ""]
+      - [155.905, 626.47, 0, ""]
+      - [229.921, 774.1420000000001, 0, ""]
+      - [298.638, 802.23, 0, ""]
+      - [462.353, 806.211, 0, ""]
+      - [545.628, 803.559, 0, ""]
+      - [647.221, 802.1900000000001, 0, ""]
+      - [776.576, 791.598, 0, ""]
+      - [870.1, 787.504, 0, ""]
+      - [912.7, 727.7, 0, ""]
+      - [905.3150000000001, 561.397, 0, ""]
+      - [911.764, 459.453, 0, ""]
+      - [918.335, 339.194, 0, ""]
+      - [910.342, 262.987, 0, ""]
+      - [907.264, 126.375, 0, ""]
+      - [942.513, 784.628, 0, ""]
+      - [973.107, 784.628, 0, ""]
+      - [401.155, 42.782, 0, ""]
+      - [398.994, 79.51900000000001, 0, ""]
+      - [396.833, 112.655, 0, ""]
+      - [404.036, 187.571, 0, ""]
+      - [404.756, 225.029, 0, ""]
+      - [284.679, 42.107, 0, ""]
+      - [282.436, 76.30800000000001, 0, ""]
+      - [279.072, 128.451, 0, ""]
+    walls:
+      - [1, 2, {alpha: [3, 1], texture_name: [1, default]}]
+      - [2, 3, {alpha: [3, 1], texture_name: [1, default]}]
+      - [3, 4, {alpha: [3, 1], texture_name: [1, default]}]
+      - [4, 5, {alpha: [3, 1], texture_name: [1, default]}]
+      - [5, 6, {alpha: [3, 1], texture_name: [1, default]}]
+      - [7, 8, {alpha: [3, 1], texture_name: [1, default]}]
+      - [8, 9, {alpha: [3, 1], texture_name: [1, default]}]
+      - [10, 11, {alpha: [3, 1], texture_name: [1, default]}]
+      - [28, 29, {alpha: [3, 1], texture_name: [1, default]}]
+      - [29, 30, {alpha: [3, 1], texture_name: [1, default]}]
+      - [31, 32, {alpha: [3, 1], texture_name: [1, default]}]
+      - [33, 34, {alpha: [3, 1], texture_name: [1, default]}]
+      - [35, 36, {alpha: [3, 1], texture_name: [1, default]}]
+      - [37, 38, {alpha: [3, 1], texture_name: [1, default]}]
+      - [39, 40, {alpha: [3, 1], texture_name: [1, default]}]
+      - [40, 41, {alpha: [3, 1], texture_name: [1, default]}]
+      - [41, 39, {alpha: [3, 1], texture_name: [1, default]}]
+      - [42, 43, {alpha: [3, 1], texture_name: [1, default]}]
+      - [43, 44, {alpha: [3, 1], texture_name: [1, default]}]
+      - [44, 45, {alpha: [3, 1], texture_name: [1, default]}]
+      - [46, 47, {alpha: [3, 1], texture_name: [1, default]}]
+      - [48, 49, {alpha: [3, 1], texture_name: [1, default]}]
+      - [50, 51, {alpha: [3, 1], texture_name: [1, default]}]
+      - [52, 53, {alpha: [3, 1], texture_name: [1, default]}]
+      - [54, 55, {alpha: [3, 1], texture_name: [1, default]}]
+      - [56, 57, {alpha: [3, 1], texture_name: [1, default]}]
+      - [58, 59, {alpha: [3, 1], texture_name: [1, default]}]
+      - [60, 61, {alpha: [3, 1], texture_name: [1, default]}]
+      - [62, 63, {alpha: [3, 1], texture_name: [1, default]}]
+      - [64, 65, {alpha: [3, 1], texture_name: [1, default]}]
+      - [66, 67, {alpha: [3, 1], texture_name: [1, default]}]
+      - [68, 69, {alpha: [3, 1], texture_name: [1, default]}]
+      - [70, 71, {alpha: [3, 1], texture_name: [1, default]}]
+      - [72, 73, {alpha: [3, 1], texture_name: [1, default]}]
+      - [74, 75, {alpha: [3, 1], texture_name: [1, default]}]
+      - [76, 77, {alpha: [3, 1], texture_name: [1, default]}]
+      - [78, 79, {alpha: [3, 1], texture_name: [1, default]}]
+      - [79, 80, {alpha: [3, 1], texture_name: [1, default]}]
+      - [80, 81, {alpha: [3, 1], texture_name: [1, default]}]
+      - [82, 83, {alpha: [3, 1], texture_name: [1, default]}]
+      - [85, 86, {alpha: [3, 1], texture_name: [1, default]}]
+      - [87, 88, {alpha: [3, 1], texture_name: [1, default]}]
+      - [88, 89, {alpha: [3, 1], texture_name: [1, default]}]
+      - [90, 91, {alpha: [3, 1], texture_name: [1, default]}]
+      - [92, 93, {alpha: [3, 1], texture_name: [1, default]}]
+      - [6, 1, {alpha: [3, 1], texture_name: [1, default]}]
+      - [89, 121, {alpha: [3, 1], texture_name: [1, default]}]
+      - [90, 122, {alpha: [3, 1], texture_name: [1, default]}]
+      - [74, 123, {alpha: [3, 1], texture_name: [1, default]}]
+      - [77, 124, {alpha: [3, 1], texture_name: [1, default]}]
+      - [81, 125, {alpha: [3, 1], texture_name: [1, default]}]
+      - [78, 126, {alpha: [3, 1], texture_name: [1, default]}]
+      - [72, 127, {alpha: [3, 1], texture_name: [1, default]}]
+      - [71, 128, {alpha: [3, 1], texture_name: [1, default]}]
+      - [83, 133, {alpha: [3, 1], texture_name: [1, default]}]
+      - [84, 134, {alpha: [3, 1], texture_name: [1, default]}]
+      - [136, 137, {alpha: [3, 1], texture_name: [1, default]}]
+      - [137, 138, {alpha: [3, 1], texture_name: [1, default]}]
+      - [138, 139, {alpha: [3, 1], texture_name: [1, default]}]
+      - [139, 140, {alpha: [3, 1], texture_name: [1, default]}]
+      - [141, 142, {alpha: [3, 1], texture_name: [1, default]}]
+      - [143, 85, {alpha: [3, 1], texture_name: [1, default]}]
+      - [84, 144, {alpha: [3, 1], texture_name: [1, default]}]
+      - [76, 145, {alpha: [3, 1], texture_name: [1, default]}]
+      - [75, 146, {alpha: [3, 1], texture_name: [1, default]}]
+      - [73, 147, {alpha: [3, 1], texture_name: [1, default]}]
+      - [70, 148, {alpha: [3, 1], texture_name: [1, default]}]
+      - [11, 161, {alpha: [3, 1], texture_name: [1, default]}]
+      - [93, 162, {alpha: [3, 1], texture_name: [1, default]}]
+      - [93, 163, {alpha: [3, 1], texture_name: [1, default]}]
+      - [69, 164, {alpha: [3, 1], texture_name: [1, default]}]
+      - [69, 165, {alpha: [3, 1], texture_name: [1, default]}]
+      - [166, 66, {alpha: [3, 1], texture_name: [1, default]}]
+      - [66, 167, {alpha: [3, 1], texture_name: [1, default]}]
+      - [168, 64, {alpha: [3, 1], texture_name: [1, default]}]
+      - [64, 169, {alpha: [3, 1], texture_name: [1, default]}]
+      - [170, 62, {alpha: [3, 1], texture_name: [1, default]}]
+      - [62, 171, {alpha: [3, 1], texture_name: [1, default]}]
+      - [172, 60, {alpha: [3, 1], texture_name: [1, default]}]
+      - [60, 173, {alpha: [3, 1], texture_name: [1, default]}]
+      - [174, 58, {alpha: [3, 1], texture_name: [1, default]}]
+      - [58, 175, {alpha: [3, 1], texture_name: [1, default]}]
+      - [176, 56, {alpha: [3, 1], texture_name: [1, default]}]
+      - [56, 177, {alpha: [3, 1], texture_name: [1, default]}]
+      - [178, 179, {alpha: [3, 1], texture_name: [1, default]}]
+      - [180, 181, {alpha: [3, 1], texture_name: [1, default]}]
+      - [182, 31, {alpha: [3, 1], texture_name: [1, default]}]
+      - [31, 183, {alpha: [3, 1], texture_name: [1, default]}]
+      - [184, 35, {alpha: [3, 1], texture_name: [1, default]}]
+      - [185, 186, {alpha: [3, 1], texture_name: [1, default]}]
+      - [187, 30, {alpha: [3, 1], texture_name: [1, default]}]
+    x_meters: 50
+    y_meters: 50
+lifts:
+  {}
+name: test_office
